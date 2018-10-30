@@ -21,6 +21,8 @@ A boilerplate for making slim experiments with Express 4 and Pug
 ## Preflight Checklist
 *You should...*
 - Change the title of your application in `/routes/index.js`
+- Change the tagline in `/views/index.pug`
+- Substitute your own background image for `public/img/bg.jpg`
 - Change the logging name of your application in `/bin/www`
 - Give your project a `name` and `version` in `package.json`
 - Replace or update this README.md file
