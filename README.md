@@ -1,5 +1,5 @@
-# vika
-A boilerplate for starting web applications with Express 4 and Pug
+# rjay
+A boilerplate for making slim experiments with Express 4 and Pug
 
 ## What's inisde:
 *A server side setup very similar to the result of express-generator...* 
@@ -24,4 +24,4 @@ A boilerplate for starting web applications with Express 4 and Pug
 - Change the logging name of your application in `/bin/www`
 - Give your project a `name` and `version` in `package.json`
 - Replace or update this README.md file
-- Build the best app ever!
+- Build the best slim experiment ever!
